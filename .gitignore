@@ -53,8 +53,14 @@ dkms.conf
 
 estates/
 log/
-www/
 save/
-realms/
-secure/
+secure/cfg/groups.cfg
+secure/cfg/ip_blacklist.cfg
+secure/cfg/ip_unrestrict.cfg
+secure/cfg/mudos.cfg
+secure/include/config.h
+secure/log/
+secure/save/
+secure/tmp/
 tmp/
+www/
